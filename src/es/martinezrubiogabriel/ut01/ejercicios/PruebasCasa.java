@@ -10,5 +10,12 @@ public class PruebasCasa {
 		
 		System.out.println(mayorNumero);
 		
+		int [] nume = {1,2,3};
+		
+	    for (int numero : nume)
+	    {
+	        System.out.println(numero);
+	    }
+		
 	}
 }
