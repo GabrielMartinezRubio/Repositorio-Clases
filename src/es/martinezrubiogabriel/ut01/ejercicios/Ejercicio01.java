@@ -7,7 +7,7 @@ public class Ejercicio01 {
 		int c = 9;
 		
 		int numeroMayor = (a > b) ? ((a > c) ? a : c) : (b > c) ? b : c;
-		//hola
+		//hola munda
 		System.out.println("El número más alto en este caso es " +numeroMayor);
 	}
 }
